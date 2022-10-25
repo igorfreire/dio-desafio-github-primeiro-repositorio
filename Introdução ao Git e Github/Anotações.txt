@@ -1,0 +1,11 @@
+Link para download do git: https://git-scm.com/downloads
+
+#O git bash é um terminal linux utilizado para enviar os comandos de git 
+
+#Comandos dentro do Git Bash
+
+ls
+git status
+git init
+git add *
+
