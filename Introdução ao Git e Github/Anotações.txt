@@ -9,3 +9,18 @@ git status
 git init
 git add *
 
+
+#Sequencia para utilizar GIT e Github 
+
+1)Abrir o Git Bash
+
+$git status
+
+$git add . - vai pra fase unstage
+
+para enviar, primeiro faz um commit
+
+$git commit -m "inclusão das anotações do curso de Git/Github"
+
+depois "empurra" local para o remoto (github)
+$git push origin main
